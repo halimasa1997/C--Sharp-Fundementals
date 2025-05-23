@@ -1,6 +1,6 @@
-# C# Fundementals
 
-📘 C# Programming Concepts:
+
+📘 # C# Fundementals
 ================================
 
 🔢 Variables
