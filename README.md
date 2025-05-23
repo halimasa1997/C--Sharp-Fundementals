@@ -27,6 +27,7 @@ Conditional statements allow a program to make decisions based on certain condit
 🔄 Loops
 Loops are used to repeat actions multiple times. C# provides several loop types, including for, while, and do-while. They are useful for iterating through data or repeating a block of code until a condition is met.
 
+---------------------------------------------
 🧮 Functions
 Functions (also called methods) are blocks of code that perform a specific task. They can take inputs (parameters), return values, and help organize and reuse code efficiently. Functions can be simple or complex and are fundamental to structured programming.
 
